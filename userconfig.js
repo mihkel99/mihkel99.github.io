@@ -56,25 +56,25 @@ const default_configuration = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
+              name: "Gmail",
               url: "https://mail.google.com",
               icon: "brand-gmail",
               icon_color: palette.green,
             },
             {
-              name: "calendar",
+              name: "Calendar",
               url: "https://calendar.google.com",
               icon: "calendar-filled",
               icon_color: palette.peach,
             },
             {
-              name: "sheets",
+              name: "Sheets",
               url: "https://docs.google.com/spreadsheets",
               icon: "table",
               icon_color: palette.red,
             },
             {
-              name: "drive",
+              name: "Drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
               icon_color: palette.blue,
