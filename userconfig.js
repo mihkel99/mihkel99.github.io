@@ -39,14 +39,14 @@ const default_configuration = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "Moodle",
+              url: "https://moodle.ut.ee/my/",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
+              name: "ÕIS",
+              url: "https://ois2.ut.ee/#/dashboard/new",
               icon: "binary-tree",
               icon_color: palette.peach,
             },
@@ -85,20 +85,20 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "YouTube",
+              url: "https://www.youtube.com",
               icon: "news",
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
+              name: "HiAnime",
+              url: "https://hianimez.to/home",
               icon: "badge-filled",
               icon_color: palette.peach,
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
+              name: "ComicK",
+              url: "https://comick.io/home2",
               icon: "border-radius",
               icon_color: palette.red,
             },
