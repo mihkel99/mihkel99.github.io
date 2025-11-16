@@ -41,7 +41,7 @@ const default_configuration = {
             {
               name: "Moodle",
               url: "https://moodle.ut.ee/my/",
-              icon: "backpackt",
+              icon: "backpack",
               icon_color: palette.green,
             },
             {
