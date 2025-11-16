@@ -41,13 +41,13 @@ const default_configuration = {
             {
               name: "Moodle",
               url: "https://moodle.ut.ee/my/",
-              icon: "droplet-bolt",
+              icon: "backpackt",
               icon_color: palette.green,
             },
             {
               name: "ÕIS",
               url: "https://ois2.ut.ee/#/dashboard/new",
-              icon: "binary-tree",
+              icon: "school",
               icon_color: palette.peach,
             },
           ],
@@ -87,25 +87,25 @@ const default_configuration = {
             {
               name: "YouTube",
               url: "https://www.youtube.com",
-              icon: "news",
+              icon: "brand-youtube",
               icon_color: palette.green,
             },
             {
               name: "HiAnime",
               url: "https://hianimez.to/home",
-              icon: "badge-filled",
+              icon: "brand-funimation",
               icon_color: palette.peach,
             },
             {
               name: "ComicK",
               url: "https://comick.io/home2",
-              icon: "border-radius",
+              icon: "book",
               icon_color: palette.red,
             },
             {
               name: "Facebook",
               url: "https://https://www.facebook.com/",
-              icon: "eye-bolt",
+              icon: "brand-facebook",
               icon_color: palette.blue,
             },
             {
