@@ -36,7 +36,7 @@ const default_configuration = {
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "University",
           links: [
             {
               name: "Moodle",
@@ -82,7 +82,7 @@ const default_configuration = {
           ],
         },
         {
-          name: "media",
+          name: "chill",
           links: [
             {
               name: "YouTube",
