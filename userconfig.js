@@ -50,6 +50,12 @@ const default_configuration = {
               icon: "school",
               icon_color: palette.peach,
             },
+               {
+              name: "Outlook",
+              url: "https://kiri.ut.ee/",
+              icon: "mail",
+              icon_color: palette.red,
+            },
           ],
         },
         {
