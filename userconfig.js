@@ -97,8 +97,8 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "HiAnime",
-              url: "https://hianimez.to/home",
+              name: "AnimeKAI",
+              url: "https://animekai.to/updates",
               icon: "brand-funimation",
               icon_color: palette.peach,
             },
