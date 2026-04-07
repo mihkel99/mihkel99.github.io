@@ -59,7 +59,7 @@ const default_configuration = {
           ],
         },
         {
-          name: "workspace",
+          name: "Personal",
           links: [
             {
               name: "Gmail",
