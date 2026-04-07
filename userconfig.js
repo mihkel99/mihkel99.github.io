@@ -88,7 +88,7 @@ const default_configuration = {
           ],
         },
         {
-          name: "chill",
+          name: "Entertainment",
           links: [
             {
               name: "YouTube",
