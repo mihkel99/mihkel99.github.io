@@ -98,7 +98,7 @@ const default_configuration = {
             },
             {
               name: "AnimeKAI",
-              url: "https://animekai.to/updates",
+              url: "https://animekai.to/ongoing",
               icon: "brand-funimation",
               icon_color: palette.peach,
             },
