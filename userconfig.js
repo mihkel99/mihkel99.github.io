@@ -33,7 +33,7 @@ const default_configuration = {
   tabs: [
     {
       name: "mihkel",
-      background_url: "src/img/banners/banner_09.gif",
+      background_url: "src/img/banners/vinland_saga02.gif",
       categories: [
         {
           name: "University",
@@ -219,7 +219,7 @@ const default_configuration = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/banner_08.gif",
+      background_url: "src/img/banners/totoro02.gif",
       categories: [
         {
           name: "social media",
