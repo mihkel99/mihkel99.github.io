@@ -33,7 +33,7 @@ const default_configuration = {
   tabs: [
     {
       name: "mihkel",
-      background_url: "src/img/banners/vinland_saga02.gif",
+      background_url: "src/img/banners/vinland_saga01.gif",
       categories: [
         {
           name: "University",
